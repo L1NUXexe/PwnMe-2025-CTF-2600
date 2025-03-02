@@ -1,7 +1,7 @@
 # PwnMe-2025-CTF-2600
 MISC CTF Writeup: Mafia at the End of the Block 1
 
-##📝 This writeup covers a **MISC challenge** where a **PCAP file** was provided for analysis. The goal was to investigate network traffic, extract a link, and use **OSINT** techniques to retrieve the flag.  
+## 📝 This writeup covers a **MISC challenge** where a **PCAP file** was provided for analysis. The goal was to investigate network traffic, extract a link, and use **OSINT** techniques to retrieve the flag.  
 
 ## 🔍 Key Points Covered  
 - **PCAP Analysis**: Inspecting network traffic in **Wireshark** to extract relevant data.  
